@@ -1,0 +1,28 @@
+.container {
+  background-color: #d9d9d9;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  background-color: white;
+  width: 420px;
+  height: 260px;
+  border-radius: 12px;
+  padding: 40px;
+  box-sizing: border-box;
+}
+
+.card h1 {
+  font-family: serif;
+  font-size: 36px;
+  margin-bottom: 40px;
+}
+
+.card p {
+  font-family: serif;
+  font-size: 18px;
+  line-height: 1.4;
+}
